@@ -31,3 +31,22 @@
   width: 100%;
   margin: auto;
 }
+
+
+
+
+/* 一级菜单居中 */
+#nav .menus_items {
+  position: absolute !important;
+  width: fit-content !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+/* 子菜单横向展示 */
+#nav .menus_items .menus_item:hover .menus_item_child {
+  display: flex !important;
+}
+/* 这里的2是代表导航栏的第2个元素，即有子菜单的元素，可以按自己需求修改 */
+.menus_items .menus_item:nth-child(2) .menus_item_child {
+  left: -125px;
+}
