@@ -3212,7 +3212,7 @@ if (localStorage.getItem("blogbg") != undefined) {
     --default-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/dm14.webp);
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
     --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
-    --mobilenight-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/mb8.webp);
+    --mobilenight-bg: url(https://images6.alphacoders.com/999/999250.jpg);
   }`;
 }
 // 切换背景主函数
