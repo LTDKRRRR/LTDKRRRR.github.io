@@ -3209,10 +3209,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://images6.alphacoders.com/999/999250.jpg);
-    --darkmode-bg:url(https://images6.alphacoders.com/999/999250.jpg);
-    --mobileday-bg: url(https://images6.alphacoders.com/999/999250.jpg);
-    --mobilenight-bg: url(https://images6.alphacoders.com/999/999250.jpg);
+    --default-bg: url(https://data-static.netdun.net/Fomalhaut/img/dm1.webp);
+    --darkmode-bg:url(https://data-static.netdun.net/Fomalhaut/img/dm1.webp);
+    --mobileday-bg: url(https://data-static.netdun.net/Fomalhaut/img/dm1.webp);
+    --mobilenight-bg: url(https://data-static.netdun.net/Fomalhaut/img/dm1.webp);
   }`;
 }
 // 切换背景主函数
