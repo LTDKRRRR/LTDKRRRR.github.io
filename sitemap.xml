@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://ltdkrrrr.github.io/site/census/index.html</loc>
+    <loc>https://ltdkrrrr.github.io/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -209,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://ltdkrrrr.github.io/social/link/index.html</loc>
+    <loc>https://ltdkrrrr.github.io/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -227,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://ltdkrrrr.github.io/personal/love/font_mw3z7ts489g/iconfont.json</loc>
+    <loc>https://ltdkrrrr.github.io/personal/love/font_mw3z7ts489g/demo_index.html</loc>
     
     <lastmod>2023-02-04</lastmod>
     
@@ -236,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://ltdkrrrr.github.io/personal/love/font_mw3z7ts489g/demo_index.html</loc>
+    <loc>https://ltdkrrrr.github.io/personal/love/font_mw3z7ts489g/iconfont.json</loc>
     
     <lastmod>2023-02-04</lastmod>
     
@@ -333,13 +333,6 @@
   </url>
   
   <url>
-    <loc>https://ltdkrrrr.github.io/tags/%E4%BD%9C%E6%AD%BB%E6%8C%87%E5%8D%97/</loc>
-    <lastmod>2023-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://ltdkrrrr.github.io/tags/%E8%A1%A5%E5%85%85%E8%AF%B4%E6%98%8E/</loc>
     <lastmod>2023-06-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -348,6 +341,13 @@
   
   <url>
     <loc>https://ltdkrrrr.github.io/tags/%E7%96%91%E9%9A%BE%E8%A7%A3%E7%AD%94/</loc>
+    <lastmod>2023-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://ltdkrrrr.github.io/tags/%E4%BD%9C%E6%AD%BB%E6%8C%87%E5%8D%97/</loc>
     <lastmod>2023-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
