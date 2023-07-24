@@ -6,7 +6,7 @@
   <link href="https://ltdkrrrr.github.io/atom.xml" rel="self"/>
   
   <link href="https://ltdkrrrr.github.io/"/>
-  <updated>2023-07-24T08:07:36.013Z</updated>
+  <updated>2023-07-24T08:43:24.226Z</updated>
   <id>https://ltdkrrrr.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NewBing(新必应)使用教学</title>
+    <link href="https://ltdkrrrr.github.io/posts/tas666.html"/>
+    <id>https://ltdkrrrr.github.io/posts/tas666.html</id>
+    <published>2023-07-24T08:38:04.000Z</published>
+    <updated>2023-07-24T08:43:24.226Z</updated>
+    
+    <content type="html"><![CDATA[<h1>前言</h1><h2 id="本篇文章直接引用B站UP主-差评君-的视频，侵删。">本篇文章直接引用B站UP主 <strong>差评君</strong> 的视频，侵删。</h2><h1>视频正文</h1><div class="about_page">  <div align=center class="aspect-ratio">      <iframe src="https://player.bilibili.com/player.html?aid=566773031&&page=1&as_wide=1&high_quality=1&danmaku=0"       scrolling="no"       border="0"       frameborder="no"       framespacing="0"       high_quality=1      danmaku=1       allowfullscreen="true">       </iframe>  </div></div><br>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1&gt;前言&lt;/h1&gt;
+&lt;h2 id=&quot;本篇文章直接引用B站UP主-差评君-的视频，侵删。&quot;&gt;本篇文章直接引用B站UP主 &lt;strong&gt;差评君&lt;/strong&gt; 的视频，侵删。&lt;/h2&gt;
+&lt;h1&gt;视频正文&lt;/h1&gt;
+&lt;div class=&quot;about_page&quot;&gt;
+  &lt;div</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Python基础语法教学</title>
